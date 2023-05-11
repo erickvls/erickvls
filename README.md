@@ -21,12 +21,12 @@
 </div>
 
 
-<div aligh="center">
+
   
 ![](https://github-readme-stats.vercel.app/api?username=erickvls&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erickvls&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickvls&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=600)
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickvls&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)
+
 
 
 #
