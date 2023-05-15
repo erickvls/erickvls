@@ -24,7 +24,7 @@
 
 <div align="center">
   
-![Graph1](https://github-readme-stats.vercel.app/api?username=erickvls&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false)
+![Graph1](https://github-readme-stats-sigma-five.vercel.app/api?username=erickvls&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false)
 </div>
 
 
@@ -35,7 +35,7 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickvls&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erickvls&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=470)
 </div>
 
 
